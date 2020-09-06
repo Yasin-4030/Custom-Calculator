@@ -1,2 +1,2 @@
-# Custome-Calculator
+# Custom-Calculator
 Addition
